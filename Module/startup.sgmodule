@@ -4,8 +4,11 @@
 #!homepage=https://whatshub.top
 #!author=ddgksf2013
 # 融合：通用开屏，高德地图，微信小程序，B站，菜鸟裹裹，bing,keep style,网易云，随手记，微信公众号，小红书，喜马拉雅，知乎，Pixiv，酷安，多多视频，百度地图
-# 由whatshub.top自动维护 202406250646
+
 [URL Rewrite]
+# > douban
+^https?:\/\/api\.douban\.com\/v2\/app_ads\/splash url reject-200
+^https?:\/\/api\.douban\.com\/b.*\/common_ads\?.* url reject-200
 ^https?:\/\/2024.06.21/v2.0.484 reject-200
 ^https?:\/\/ftapi\.10jqka\.com\.cn\/futgwapi\/api\/om\/v\d\/ad\/common\/transfer reject-200
 ^https?:\/\/app\.58\.com\/api\/home\/(advertising|appadv) reject-200
