@@ -20,5 +20,6 @@
      { "name": "onedrive", "url": "https://github.com/majunchen/surge-icon/blob/9c3b11c3bc3ebb15cc7e3b8ac7b6d31fb5f5d2c3/onedrive.png?raw=true"},
      { "name": "bilibili", "url": "https://github.com/majunchen/surge-icon/blob/17975b97c2961c038d35fd95ba76938128a3fa77/bilibili.png?raw=true"}, 
      { "name": "final", "url": "https://github.com/thebadcode/Surge/blob/master/Icon-set/Final.png?raw=true"}, 
+     { "name": "advertising", "url": "https://github.com/thebadcode/Surge/blob/master/Icon-set/Advertising.png?raw=true"}, 
     ]
 }
